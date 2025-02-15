@@ -57,4 +57,4 @@ Criar um projeto "natty" (natural e autêntico) com IA foi um desafio fascinante
 
 Clique no link abaixo para baixar o e-book:
 
-[🔗 **Baixar o Livro Aqui**](https://github.com/seu-usuario/seu-repositorio/raw/main/nome-do-arquivo.pdf)
+[🔗 **Baixar o Livro Aqui**]([https://github.com/seu-usuario/seu-repositorio/raw/main/nome-do-arquivo.pdf](https://github.com/MarioECNacimento/lab-natty-or-not/blob/main/livro_ebook.pdf))
